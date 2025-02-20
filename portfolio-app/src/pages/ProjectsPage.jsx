@@ -8,7 +8,7 @@ const projects = [
     image: "/images/portfolio.png",
     technologies: ["React", "CSS", "JavaScript", "node.js"],
     liveLink: "#",
-    codeLink: "#"
+    codeLink: "https://github.com/Damaris200/My_Portfolio_App"
   },
   
   {
